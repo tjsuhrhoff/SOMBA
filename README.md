@@ -27,7 +27,7 @@ A Python script that loads user-provided input data and computes the SOMBA param
 A Python script demonstrating the internal consistency of the SOMBA framework with synthetic or real datasets: the calculated SOMBA parameters are equivalent to the assumed a priori values 
 
 - `SOMBA_template.xlsx`  
-An Excel spreadsheet that calculates the dissolution fraction based on Equations 11–14 of the manuscript. This template is designed for initial exploration and parameter testing, but ultimately any claims on dissolution fractions should always involve advanced statistical modeling such as Monte Carlo simulations
+An Excel spreadsheet that calculates the dissolution fraction based on Equations 6–9 of the manuscript. This template is designed for initial exploration and parameter testing, but ultimately any claims on dissolution fractions should always involve advanced statistical modeling such as Monte Carlo simulations
 
 
 ## Getting Started
